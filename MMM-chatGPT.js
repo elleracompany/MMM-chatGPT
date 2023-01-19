@@ -1,7 +1,7 @@
 Module.register("MMM-chatGPT", {
   // Default module config.
   defaults: {
-    text: "Hei Dominic :)",
+    text: "Det var en gang en kar, som het Nils. Han gikk nedover torget en solskinnsdag i Januar.",
   },
 
   getTemplate: function () {
