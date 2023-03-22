@@ -1,8 +1,9 @@
 # MMM-chatGPT
 
-<<<<<<< HEAD
 This is a work in progress, it is going to start a voice recording and ask chatGPT a question. 
 Later it is going to use a screen reader and read the answer back to you.
+
+This is used for Magic Mirror
 
 ## Working
 
@@ -19,8 +20,4 @@ A module can be placed in one single folder. Or multiple modules can be grouped 
 - modulename/node_helper.js - This is an optional helper that will be loaded by the node script. The node helper and module script can communicate with each other using an integrated socket system.
 - modulename/public - Any files in this folder can be accessed via the browser on /modulename/filename.ext.
 - modulename/anyfileorfolder Any other file or folder in the module folder can be used by the core module script. For example: modulename/css/modulename.css would be a good path for your additional module styles.
-=======
-This is a work in progress, it is going to start a voice recording and ask chatGPT a question. Later it is going to use a screen reader and read the answer back to you.
 
-This is used for Magic Mirror
->>>>>>> df75f5ecc03e28c44ca21bb4d539e48984f630de
